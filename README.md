@@ -2,8 +2,6 @@
 AI-Powered Image Segmentation with Mask R-CNN &amp; DeepLabV3
 # AI-Powered Image Segmentation
 
-![Semantic Segmentation](https://user-images.githubusercontent.com/your-image-link.png)  
-
 ## 🚀 Project Overview
 This project implements **semantic segmentation** using **Mask R-CNN** and **DeepLabV3**, two state-of-the-art deep learning models. It allows accurate object detection and mask generation for images, providing a visual representation of segmented objects.
 
