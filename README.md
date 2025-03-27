@@ -48,9 +48,6 @@ Feel free to fork this repository, raise issues, or submit PRs! Let's build some
 ## 📜 License
 This project is licensed under the **MIT License**.
 
-## 📬 Contact
-For queries, reach out via [LinkedIn](https://www.linkedin.com/in/your-profile) or email me at `your-email@example.com`.
-
 ---
 
 *Star ⭐ this repo if you found it useful!* 😊
